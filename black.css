@@ -956,8 +956,6 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .c-message__resend_column { background-color: rgba(84, 84, 84, 0.1); }
 
-.c-message__resend_column { color: rgba(84, 84, 84, 0.1); }
-
 .c-message__resend, .c-message__cancel { color: #e6e6e6; }
 
 .c-message__edited_label { color: #949494; }
